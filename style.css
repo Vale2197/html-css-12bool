@@ -1,0 +1,27 @@
+.col-1, .col-12, .col-8, .col-2, .col-8, .col-6 {
+    background-color: #FFC0CB;
+    border: 1px solid black;
+    padding: 5rem 0;
+    text-align: center;
+}
+
+.half-row {
+    width: 50%;
+    border: 1px solid black;
+    padding: 0.3rem;
+}
+
+/* FOOTER */
+
+footer {
+    background-color: #FFC0CB;
+}
+
+footer .col-2, footer .col-8, footer .col-6 {
+    background-color: #F07F80;
+    border: none;
+    border-right: 2px solid #FFC0CB;
+}
+
+
+

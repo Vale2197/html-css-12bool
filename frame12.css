@@ -19,6 +19,13 @@
     width: 100%;
 }
 
+.justify_center {
+    justify-content: center;
+}
+
+.flex {
+    display: flex;
+}
 /* COLONNE */
 .col-1 {
     width: calc((100% / 12) * 1);
